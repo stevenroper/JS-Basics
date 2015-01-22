@@ -48,7 +48,7 @@ var welcome = function() {
 
 //What is the difference between arguments and parameters?
 
-  //Answer Here
+  //A parameter is what is passed to a function and an argument is the item passed in as a parameter
 
 
 //Next problem
@@ -58,7 +58,7 @@ var welcome = function() {
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
 
-  //Answer Here
+  //null, NaN, false, 0, '', undefined
 
 
 
